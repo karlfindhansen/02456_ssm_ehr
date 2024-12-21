@@ -9,4 +9,4 @@
   4. Model Evaluation
 
 - This folder must therefore be uploaded to google colab, and the filepath must be set accordingly, to run the data provided in the data folder.
-- The data must also be unzipped in the data folder, to run the model.
+- The data must also be unzipped from the repository: https://github.com/gsn245/Selective_SSM_for_EHR_Classification and uploaded to the google colab environment.
